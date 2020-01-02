@@ -1,1 +1,2 @@
 # ReaderSettings
+Test version
